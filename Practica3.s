@@ -2,7 +2,7 @@
 // Archivo: practica3.s
 // Autor: [Romero Bravo Daniel]
 // Fecha: [2025-04-02]
-// Descripción: Muestra el resultado factorial
+// Descripción: Muestra el resultado de una suma de numeros constantes
 // Link: https://asciinema.org/a/ybAKYnMEcENAWFH10RE8wXXca
 //
 // Versión en C:
