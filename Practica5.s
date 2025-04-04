@@ -2,7 +2,7 @@
 // Archivo: practica5.s
 // Autor: Romero Bravo Daniel
 // Fecha: 2025-04-02
-// Descripción: 
+// Descripción: Muestra el factorial
 // Link: https://asciinema.org/a/GGsUzsFU0B85JZzOgwd4v0IEE
 //
 // Versión en C:
